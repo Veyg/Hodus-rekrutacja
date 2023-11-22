@@ -1,0 +1,1 @@
+Mozna zignorowac Simpleblock.java i AppTest - sa one wylacznie dla sprawdzenia poprawnosci logiki
